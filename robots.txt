@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.calcmira.com/sitemap.xml
+Sitemap: https://calcmira.loc.cc/sitemap.xml
